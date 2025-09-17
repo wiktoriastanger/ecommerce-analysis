@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_price
+50,Mini Shampoo,Beauty,86.05
+51,Ultra Doll,Toys,125.78
+52,Classic Novel,Books,120.0
+53,Mini Kettle,Home,272.24
+54,Eco Blender,Home,405.91
+55,Ultra Smartwatch,Electronics,1736.62
+56,Smart Power Bank,Electronics,1005.85
+57,Lite USB Hub,Electronics,1709.37
+58,Essential Plush Bear,Toys,128.71
+59,Lite T-Shirt,Clothing,154.29
+60,Lite Shirt,Clothing,190.3
+61,Premium Lip Balm,Beauty,67.58
+62,Lite Pillow,Home,471.39
+63,Smart Webcam,Electronics,990.3
+64,Smart Keyboard,Electronics,2100.9
+65,Mini Children Story,Books,116.11
+66,Essential Novel,Books,120.0
+67,Mini Board Game,Toys,110.28
+68,Mini Coffee Maker,Home,206.13
+69,Eco LED Lamp,Electronics,1559.31
+70,Classic Jacket,Clothing,60.12
+71,Mini Pillow,Home,385.81
+72,Ultra Children Story,Books,120.0
+73,Eco Monitor,Electronics,2224.0
+74,Essential Sneakers,Clothing,264.38
+75,Classic LED Lamp,Electronics,1254.27
+76,Max Lip Balm,Beauty,180.0
+77,Lite Keyboard,Electronics,2171.8
+78,Essential Children Story,Books,120.0
+79,Smart Sneakers,Clothing,181.74
+80,Pro Sunscreen,Beauty,114.11
+81,Essential Laptop Stand,Electronics,770.0
+82,Smart Headphones,Electronics,2325.76
+83,Pro Monitor,Electronics,504.0
+84,Eco Keyboard,Electronics,1133.92
+85,Eco Webcam,Electronics,1442.27
+86,Ultra RC Car,Toys,200.0
+87,Ultra USB Hub,Electronics,2959.42
+88,Premium Webcam,Electronics,2094.34
+89,Max Blender,Home,208.44
+90,Smart Cookbook,Books,120.0
+91,Pro Design Handbook,Books,66.38
+92,Lite Monitor,Electronics,2549.04
+93,Lite Face Cream,Beauty,125.16
+94,Pro Smartwatch,Electronics,989.11
+95,Lite Coffee Maker,Home,172.18
+96,Essential Blender,Home,236.57
+97,Lite Keyboard,Electronics,1122.42
+98,Pro Perfume,Beauty,180.0
+99,Max LED Lamp,Electronics,969.54
+100,Pro Keyboard,Electronics,1359.23
+101,Premium Blender,Home,248.5
+102,Lite Yo-Yo,Toys,150.31
+103,Pro Hoodie,Clothing,186.36
+104,Classic Laptop Stand,Electronics,1078.47
+105,Ultra Sweatpants,Clothing,135.41
+106,Mini Kettle,Home,152.29
+107,Essential Bluetooth Speaker,Electronics,685.62
+108,Lite Monitor,Electronics,1476.36
+109,Mini Headphones,Electronics,2085.93
+110,Pro Webcam,Electronics,1049.02
+111,Pro Bed Sheets,Home,179.96
+112,Pro History Book,Books,96.87
+113,Classic Sunscreen,Beauty,109.15
+114,Max Mystery Book,Books,61.9
+115,Premium Board Game,Toys,200.0
+116,Smart LED Lamp,Electronics,1631.98
+117,Essential History Book,Books,82.71
+118,Classic LED Lamp,Electronics,1531.08
+119,Max Keyboard,Electronics,1099.59
+120,Essential Socks,Clothing,163.07
+121,Mini Makeup Kit,Beauty,158.19
+122,Ultra Board Game,Toys,200.0
+123,Max USB Hub,Electronics,2653.9
+124,Ultra Headphones,Electronics,2883.5
+125,Mini Smartwatch,Electronics,1197.53
+126,Premium Jeans,Clothing,141.19
+127,Max Coffee Maker,Home,258.47
+128,Classic Lip Balm,Beauty,142.27
+129,Pro Keyboard,Electronics,962.56
+130,Classic T-Shirt,Clothing,132.92
+131,Smart Cap,Clothing,272.23
+132,Premium Drone Toy,Toys,200.0
+133,Classic T-Shirt,Clothing,161.86
+134,Premium Kite,Toys,110.88
+135,Premium Plush Bear,Toys,130.64
+136,Smart Smartwatch,Electronics,855.93
+137,Classic Frying Pan,Home,210.59
+138,Pro Headphones,Electronics,1619.87
+139,Smart Drone Toy,Toys,143.08
+140,Pro Sci-Fi Reader,Books,120.0
+141,Essential Cap,Clothing,195.48
+142,Ultra Coffee Maker,Home,318.82
+143,Eco Pillow,Home,225.47
+144,Pro Bed Sheets,Home,504.52
+145,Lite Shirt,Clothing,98.38
+146,Classic Plush Bear,Toys,129.46
+147,Eco Hoodie,Clothing,100.8
+148,Premium Air Purifier,Home,385.47
+149,Ultra Language Course,Books,120.0
+150,Smart Hand Cream,Beauty,106.47
+151,Premium Conditioner,Beauty,180.0
+152,Smart Doll,Toys,129.83
+153,Lite USB Hub,Electronics,718.73
+154,Essential Laptop Stand,Electronics,1180.22
+155,Mini Frying Pan,Home,298.27
+156,Ultra Headphones,Electronics,1205.35
+157,Premium Vacuum,Home,800.0
+158,Lite Sneakers,Clothing,278.02
+159,Essential Sci-Fi Reader,Books,120.0
+160,Lite Toaster,Home,524.39
+161,Lite Sweatpants,Clothing,78.03
+162,Eco Shirt,Clothing,150.07
+163,Classic Sneakers,Clothing,46.33
+164,Mini Children Story,Books,84.9
+165,Ultra Pillow,Home,451.83
+166,Mini Bluetooth Speaker,Electronics,916.49
+167,Mini Hand Cream,Beauty,100.84
+168,Ultra Kettle,Home,292.77
+169,Max Keyboard,Electronics,1908.92
+170,Essential Doll,Toys,126.43
+171,Eco Cap,Clothing,159.51
+172,Pro Bluetooth Speaker,Electronics,1927.62
+173,Ultra Makeup Kit,Beauty,150.55
+174,Ultra Bluetooth Speaker,Electronics,1178.06
+175,Classic Power Bank,Electronics,1543.07
+176,Essential Sweatpants,Clothing,188.3
+177,Ultra Jacket,Clothing,205.88
+178,Essential Cap,Clothing,300.0
+179,Mini Vacuum,Home,206.88
+180,Max Shirt,Clothing,138.4
+181,Essential Jeans,Clothing,300.0
+182,Classic USB Hub,Electronics,975.0
+183,Smart Children Story,Books,120.0
+184,Premium Keyboard,Electronics,1227.35
+185,Lite USB Hub,Electronics,1384.68
+186,Max T-Shirt,Clothing,261.6
+187,Pro Laptop Stand,Electronics,2312.07
+188,Mini Smartwatch,Electronics,2097.81
+189,Smart Smartwatch,Electronics,1222.15
+190,Premium Body Lotion,Beauty,113.88
+191,Classic Serum,Beauty,157.02
+192,Essential Socks,Clothing,193.9
+193,Max Conditioner,Beauty,100.58
+194,Premium Knife Set,Home,306.71
+195,Premium Hoodie,Clothing,297.99
+196,Max Monitor,Electronics,1443.65
+197,Essential Knife Set,Home,578.36
+198,Pro Doll,Toys,178.51
+199,Ultra Jacket,Clothing,167.69
+200,Eco Pillow,Home,258.56
+201,Max Sweatpants,Clothing,137.0
+202,Essential Kite,Toys,93.31
+203,Essential Perfume,Beauty,166.41
+204,Max History Book,Books,78.16
+205,Smart Action Figure,Toys,126.31
+206,Eco Jacket,Clothing,173.37
+207,Smart Kite,Toys,176.5
+208,Pro Toaster,Home,315.34
+209,Ultra Smartwatch,Electronics,1372.52
+210,Premium Yo-Yo,Toys,62.23
+211,Max Bluetooth Speaker,Electronics,1220.52
+212,Eco Kite,Toys,104.69
+213,Premium Cap,Clothing,171.46
+214,Eco Kettle,Home,422.09
+215,Pro Laptop Stand,Electronics,1924.02
+216,Classic Shirt,Clothing,202.38
+217,Essential Monitor,Electronics,1681.75
+218,Ultra Air Purifier,Home,107.92
+219,Eco Body Lotion,Beauty,146.6
+220,Mini Lip Balm,Beauty,177.87
+221,Ultra Knife Set,Home,165.94
+222,Premium Frying Pan,Home,305.74
+223,Mini Headphones,Electronics,1128.48
+224,Pro USB Hub,Electronics,2101.12
+225,Pro Sweatpants,Clothing,300.0
+226,Lite Bed Sheets,Home,182.34
+227,Pro Blender,Home,547.09
+228,Essential Webcam,Electronics,1229.62
+229,Lite Hand Cream,Beauty,180.0
+230,Smart Lego Set,Toys,118.96
+231,Lite Jacket,Clothing,187.14
+232,Essential Laptop Stand,Electronics,1474.3
+233,Pro Power Bank,Electronics,955.41
+234,Lite Socks,Clothing,76.5
+235,Max RC Car,Toys,103.56
+236,Lite Smartwatch,Electronics,2177.26
+237,Classic Hoodie,Clothing,153.8
+238,Pro Vacuum,Home,204.45
+239,Lite Blender,Home,563.54
+240,Ultra Conditioner,Beauty,167.69
+241,Classic Cookbook,Books,120.0
+242,Classic USB Hub,Electronics,1963.04
+243,Lite RC Car,Toys,98.66
+244,Max Travel Guide,Books,115.57
+245,Smart Webcam,Electronics,1433.1
+246,Classic Laptop Stand,Electronics,1247.02
+247,Lite Sci-Fi Reader,Books,71.01
+248,Lite Monitor,Electronics,1650.28
+249,Lite Monitor,Electronics,635.04
